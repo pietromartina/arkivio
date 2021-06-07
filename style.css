@@ -1,0 +1,42 @@
+.centered-axis-xy {
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%,-50%);
+}
+
+body {
+   font-family: "Lekton", monospace;
+   font-style: normal;
+   font-weight: 400;
+   background-color: #000000;
+}
+
+.card-title {
+   font-family: neue-haas-grotesk-display,sans-serif;
+   font-weight: 500;
+   font-style: normal;
+   font-size: 3rem;
+   color: rgb(37, 36, 28);
+}
+
+.card-text {
+   font-weight: 700;
+   line-height: 115%;
+   color: rgb(37, 36, 28);
+}
+
+.card-link {
+   font-weight: 700;
+   color: blanchedalmond;
+}
+
+.card {
+   background-color: #6072be;
+}
+
+.card-subtitle{
+   color: rgb(37, 36, 28);
+}
+
+/*style="width: 34rem;"*/
